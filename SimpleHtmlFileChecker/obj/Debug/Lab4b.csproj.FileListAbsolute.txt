@@ -1,0 +1,11 @@
+C:\YoungDrive\Mohawk College\Sem3\Progrmming in .NET\Class Code\Assignment4\Assignment4\Lab4b\bin\Debug\Lab4b.exe.config
+C:\YoungDrive\Mohawk College\Sem3\Progrmming in .NET\Class Code\Assignment4\Assignment4\Lab4b\bin\Debug\Lab4b.exe
+C:\YoungDrive\Mohawk College\Sem3\Progrmming in .NET\Class Code\Assignment4\Assignment4\Lab4b\bin\Debug\Lab4b.pdb
+C:\YoungDrive\Mohawk College\Sem3\Progrmming in .NET\Class Code\Assignment4\Assignment4\Lab4b\obj\Debug\Lab4b.csproj.AssemblyReference.cache
+C:\YoungDrive\Mohawk College\Sem3\Progrmming in .NET\Class Code\Assignment4\Assignment4\Lab4b\obj\Debug\Lab4b.csproj.SuggestedBindingRedirects.cache
+C:\YoungDrive\Mohawk College\Sem3\Progrmming in .NET\Class Code\Assignment4\Assignment4\Lab4b\obj\Debug\Lab4b.Properties.Resources.resources
+C:\YoungDrive\Mohawk College\Sem3\Progrmming in .NET\Class Code\Assignment4\Assignment4\Lab4b\obj\Debug\Lab4b.csproj.GenerateResource.cache
+C:\YoungDrive\Mohawk College\Sem3\Progrmming in .NET\Class Code\Assignment4\Assignment4\Lab4b\obj\Debug\Lab4b.csproj.CoreCompileInputs.cache
+C:\YoungDrive\Mohawk College\Sem3\Progrmming in .NET\Class Code\Assignment4\Assignment4\Lab4b\obj\Debug\Lab4b.exe
+C:\YoungDrive\Mohawk College\Sem3\Progrmming in .NET\Class Code\Assignment4\Assignment4\Lab4b\obj\Debug\Lab4b.pdb
+C:\YoungDrive\Mohawk College\Sem3\Progrmming in .NET\Class Code\Assignment4\Assignment4\Lab4b\obj\Debug\Lab4b.Form1.resources
